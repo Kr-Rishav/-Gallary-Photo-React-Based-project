@@ -1,0 +1,34 @@
+.main-container{
+              /* border: 2px solid white; */
+              margin: 0;
+              width: auto;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+              gap: 2px;
+
+}
+
+.heading h5{
+              /* border: 2px solid red; */
+              font-size: 2rem;
+              font-weight: bolder;
+              margin: 5px;
+              padding: 10px;
+
+}
+
+.galary{
+              /* border: 2px solid red; */
+              /* padding: 3px; */
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              gap: 10px;
+              width: 100%;
+              overflow: hidden;
+              flex-wrap: wrap;
+              flex-basis:20%;
+}
+
